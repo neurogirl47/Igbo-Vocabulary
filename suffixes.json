@@ -1,6 +1,7 @@
 [{"_comments" : {
 	"_comment1" : "@TODO: Include metadata about each word like--> root, suffix, and other descriptors",
-	"_comment2" : "@TODO: make each word it's own object"
+	"_comment2" : "@TODO: make each word it's own object",
+	"_comment3" : "@TODO: There words without definitions in this json"
 
 }
 
