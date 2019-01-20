@@ -1,0 +1,36 @@
+[{"_comments" : {
+	"_comment1" : "@TODO: Include metadata about each word like--> root, suffix, and other descriptors",
+	"_comment2" : "@TODO: make each word it's own object"
+
+}
+
+},
+
+	{
+	"li" : "up",
+	"tu" : "down",
+	"chi" : "block",
+	"ba" : "into a place",
+	"da" : "down",
+	"fe" : "across",
+	"fu" : "disguard (throw away)",
+	"ga" : "to a place",
+	"ghari" : "to another place",
+	"je" : "to a place",
+	"mi" : "further in",
+	"ra" : "now",
+	"ru" : "now",
+	"re" : "now",
+	"sa" : "to a certain place",
+	"be" : ,
+	"ezi" : "properly",
+	"hie" : ,
+	"la" : "home",
+	"pu" : "off (away)",
+	"cha" : "complete",
+	"nwu" : "make brighter",
+	"nyu" : "quench",
+	"so" : "with someone else",
+	"ru" : "arrive"
+	
+}]
