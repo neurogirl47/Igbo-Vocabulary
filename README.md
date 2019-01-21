@@ -6,3 +6,5 @@ My collection of Igbo vocabulary. Mostly json files where I try to organize info
 [] @TODO: make each word in suffixes.json it's own object
 
 [] @TODO: There words without definitions in suffixes.json
+
+[] @TODO: Use numbers as metadata as well as Igbo definitions (not english words) in suffixes.json
