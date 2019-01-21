@@ -2,37 +2,139 @@
 	"_comment1" : "@TODO: Include metadata about each word like--> root, suffix, and other descriptors",
 	"_comment2" : "@TODO: make each word it's own object",
 	"_comment3" : "@TODO: There words without definitions in this json",
-	"_comment4" : "@TODO: Use numbers as metadata as well as Igbo definitions (not english words)"
+	"_comment4" : "@TODO: Use numbers as metadata as well as Igbo definitions (not english words)",
+	"_comment5" : "@TODO: Add ntupo & udaolu to all entries where applicable"
 
 }
 
 },
 
 	{
-	"li" : "up",
-	"tu" : "down",
-	"chi" : "block",
-	"ba" : "into a place",
-	"da" : "down",
-	"fe" : "across",
-	"fu" : "disguard (throw away)",
-	"ga" : "to a place",
-	"ghari" : "to another place",
-	"je" : "to a place",
-	"mi" : "further in",
-	"ra" : "now",
-	"ru" : "now",
-	"re" : "now",
-	"sa" : "to a certain place",
-	"be" : ,
-	"ezi" : "properly",
-	"hie" : ,
-	"la" : "home",
-	"pu" : "off (away)",
-	"cha" : "complete",
-	"nwu" : "make brighter",
-	"nyu" : "quench",
-	"so" : "with someone else",
-	"ru" : "arrive"
+		"li" : {
+			"udi" : "nsonaazu",
+			"ihe_oputa" : 
+		}
+	},
+	{
+		"tu" : { 
+			"udi" : "nsonaazu",
+			"ihe_oputa": 
+		}
+	},
+	{"chi" : { 
+			"udi" : "nsonaazu",
+			"ihe_oputa": 
+		}
+	},
+	{"ba" : { 
+			"udi" : "nsonaazu",
+			"ihe_oputa": 
+		}
+	},
+	{"da" : { 
+			"udi" : "nsonaazu",
+			"ihe_oputa": 
+		}
+	},
+	{"fe" : { 
+			"udi" : "nsonaazu",
+			"ihe_oputa": 
+		}
+	},
+	{"fu" : { 
+			"udi" : "nsonaazu",
+			"ihe_oputa": 
+		}
+	},
+	{"ga" : { 
+			"udi" : "nsonaazu",
+			"ihe_oputa": 
+		}
+	},
+	{"ghari" : { 
+			"udi" : "nsonaazu",
+			"ihe_oputa": 
+		}
+	},
+	{"je" : { 
+			"udi" : "nsonaazu",
+			"ihe_oputa": 
+		}
+	},
+	{"mi" : { 
+			"udi" : "nsonaazu",
+			"ihe_oputa": 
+		}
+	},
+	{"ra" : { 
+			"udi" : "nsonaazu",
+			"ihe_oputa": 
+		}
+	},
+	{"ru" : { 
+			"udi" : "nsonaazu",
+			"ihe_oputa": 
+		}
+	},
+	{"re" : { 
+			"udi" : "nsonaazu",
+			"ihe_oputa": 
+		}
+	},
+	{"sa" : { 
+			"udi" : "nsonaazu",
+			"ihe_oputa": 
+		}
+	},
+	{"be" : { 
+			"udi" : "nsonaazu",
+			"ihe_oputa": 
+		}
+	},
+	{"ezi" : { 
+			"udi" : "nsonaazu",
+			"ihe_oputa": 
+		}
+	},
+	{"hie" : { 
+			"udi" : "nsonaazu",
+			"ihe_oputa": 
+		}
+	},
+	{"la" : { 
+			"udi" : "nsonaazu",
+			"ihe_oputa": 
+		}
+	},
+	{"pu" : { 
+			"udi" : "nsonaazu",
+			"ihe_oputa": 
+		}
+	},
+	{"cha" : { 
+			"udi" : "nsonaazu",
+			"ihe_oputa": 
+		}
+	},
+	{"nwu" : { 
+			"udi" : "nsonaazu",
+			"ihe_oputa": 
+		}
+	},
+	{"nyu" : { 
+			"udi" : "nsonaazu",
+			"ihe_oputa": 
+		}
+	},
+	{"so" : { 
+			"udi" : "nsonaazu",
+			"ihe_oputa": 
+		}
+	},
+	{"ru" : { 
+			"udi" : "nsonaazu",
+			"ihe_oputa": 
+		}
+	}
 	
-}]
+]
