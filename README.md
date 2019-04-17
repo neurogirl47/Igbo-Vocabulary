@@ -10,3 +10,5 @@ My collection of Igbo vocabulary. Mostly json files where I try to organize info
 [] @TODO: Use numbers as metadata as well as Igbo definitions (not english words) in suffixes.json
 
 [] @TODO: Add ntupo & udaolu to all entries in suffixes.json where applicable
+
+[] @TODO: If the letter a shows up, add a kpom under other vowels.
